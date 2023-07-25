@@ -1,4 +1,4 @@
-# Simple Joystick with Websockets
+# Simple Joystick with Socket.io API
 
 Simple joystick component rendered in React Single Page Application connected with websocket using socket.io.
 
